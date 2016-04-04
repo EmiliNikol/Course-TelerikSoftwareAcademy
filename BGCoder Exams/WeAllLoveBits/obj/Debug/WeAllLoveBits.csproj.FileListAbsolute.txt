@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\Test\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+D:\programs\Telerik Academy\Test\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+D:\programs\Telerik Academy\Test\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\Test\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+D:\programs\Telerik Academy\Test\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

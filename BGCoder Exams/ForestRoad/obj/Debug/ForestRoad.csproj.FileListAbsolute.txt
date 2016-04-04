@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\Test\ForestRoad\bin\Debug\ForestRoad.exe
+D:\programs\Telerik Academy\Test\ForestRoad\bin\Debug\ForestRoad.pdb
+D:\programs\Telerik Academy\Test\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\Test\ForestRoad\obj\Debug\ForestRoad.exe
+D:\programs\Telerik Academy\Test\ForestRoad\obj\Debug\ForestRoad.pdb

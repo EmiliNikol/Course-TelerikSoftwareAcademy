@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\Test\Pillars\bin\Debug\Pillars.exe.config
+D:\programs\Telerik Academy\Test\Pillars\bin\Debug\Pillars.exe
+D:\programs\Telerik Academy\Test\Pillars\bin\Debug\Pillars.pdb
+D:\programs\Telerik Academy\Test\Pillars\obj\Debug\Pillars.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\Test\Pillars\obj\Debug\Pillars.exe
+D:\programs\Telerik Academy\Test\Pillars\obj\Debug\Pillars.pdb

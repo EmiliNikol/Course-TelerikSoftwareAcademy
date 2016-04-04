@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\Test\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+D:\programs\Telerik Academy\Test\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+D:\programs\Telerik Academy\Test\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\Test\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+D:\programs\Telerik Academy\Test\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

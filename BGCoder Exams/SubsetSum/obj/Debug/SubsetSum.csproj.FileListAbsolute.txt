@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\Test\SubsetSum\bin\Debug\SubsetSum.exe
+D:\programs\Telerik Academy\Test\SubsetSum\bin\Debug\SubsetSum.pdb
+D:\programs\Telerik Academy\Test\SubsetSum\obj\Debug\SubsetSum.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\Test\SubsetSum\obj\Debug\SubsetSum.exe
+D:\programs\Telerik Academy\Test\SubsetSum\obj\Debug\SubsetSum.pdb

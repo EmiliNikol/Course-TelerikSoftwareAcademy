@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\Test\Tribonacci\bin\Debug\Tribonacci.exe
+D:\programs\Telerik Academy\Test\Tribonacci\bin\Debug\Tribonacci.pdb
+D:\programs\Telerik Academy\Test\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\Test\Tribonacci\obj\Debug\Tribonacci.exe
+D:\programs\Telerik Academy\Test\Tribonacci\obj\Debug\Tribonacci.pdb

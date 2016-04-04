@@ -1,0 +1,4 @@
+D:\programs\Telerik Academy\Test\Trapezoid\bin\Debug\Trapezoid.exe
+D:\programs\Telerik Academy\Test\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\programs\Telerik Academy\Test\Trapezoid\obj\Debug\Trapezoid.exe
+D:\programs\Telerik Academy\Test\Trapezoid\obj\Debug\Trapezoid.pdb
