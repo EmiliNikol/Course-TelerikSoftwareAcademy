@@ -4,3 +4,9 @@ D:\programs\Telerik Academy\Test\AstrologicalDigits\bin\Debug\AstrologicalDigits
 D:\programs\Telerik Academy\Test\AstrologicalDigits\obj\Debug\AstrologicalDigits.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
 D:\programs\Telerik Academy\Test\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb
+D:\programs\Telerik Academy\BGCoder Exams\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+D:\programs\Telerik Academy\BGCoder Exams\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+D:\programs\Telerik Academy\BGCoder Exams\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb
+D:\programs\Telerik Academy\BGCoder Exams\AstrologicalDigits\obj\Debug\AstrologicalDigits.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+D:\programs\Telerik Academy\BGCoder Exams\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
