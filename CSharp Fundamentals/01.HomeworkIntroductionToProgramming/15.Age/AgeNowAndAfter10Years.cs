@@ -8,17 +8,17 @@ class AgeNowAndAfter10Years
 {
     static void Main()
     {
-        string dateBirth = Console.ReadLine();
-
-        DateTime birthDate = DateTime.ParseExact(dateBirth, "MM.dd.yyyy", CultureInfo.InvariantCulture);
+        DateTime birthDate = DateTime.ParseExact(Console.ReadLine(), "MM.dd.yyyy", CultureInfo.InvariantCulture);
 
         int age = DateTime.Now.Year - birthDate.Year;
         int month = DateTime.Now.Month - birthDate.Month;
+        int day = DateTime.Now.Day - birthDate.Day;
         
-        if (month < 0)
+        if ((month < 0 || (month == 0 && day < 0)) && age > 0)
         {
-            Console.WriteLine(age - 1);
-            Console.WriteLine((age + 10) - 1);
+            age--;
+            Console.WriteLine(age);
+            Console.WriteLine(age + 10);
         }
         else
         {
