@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>HTML Form</title>
+	</head>
+	<body>
+		<form method="get">
+			<table>
+				<tr>
+					<td>
+						<label for="mn">Member name :</label>
+						<input id="mn" type="text" name="memberName" required="required"  autofocus="autofocus" />
+						<label>*req</label>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label for="em">Email :</label>
+						<input id="em" type="email" name="email" pattern="{3,}@{3,}.{2,}" required="required" />
+						<label>*req</label>
+					</td>	
+				</tr>
+				<tr>
+					<td>
+						<label for="sch">School :</label>
+						<input id="sch" type="text" name="school" required="required" />
+						<label>*req</label>
+					</td>
+				</tr>
+				<tr>
+					<td>		
+						<input type="image" src="http://www.yorkwa.com.au/images/nav/Submit.Button.gif" 
+						name="submitBtn" alt="Submit" />
+					</td>
+				</tr>
+			</table>			
+		</form>
+	</body>
+</html>
