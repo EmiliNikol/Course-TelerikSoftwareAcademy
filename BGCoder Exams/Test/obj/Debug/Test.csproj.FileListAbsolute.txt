@@ -5,3 +5,6 @@ D:\programs\Telerik Academy\Test\Test\obj\Debug\Test.exe
 D:\programs\Telerik Academy\Test\Test\obj\Debug\Test.pdb
 D:\programs\Telerik Academy\BGCoder Exams\Test\obj\Debug\Test.exe
 D:\programs\Telerik Academy\BGCoder Exams\Test\obj\Debug\Test.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Test\bin\Debug\Test.exe
+D:\programs\Telerik Academy\BGCoder Exams\Test\bin\Debug\Test.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

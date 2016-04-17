@@ -7,7 +7,7 @@ class Upr
 {
     static void Main(string[] args)
     {
-        ulong n = Convert.ToUInt64(Console.ReadLine());
+        ulong n = ulong.Parse(Console.ReadLine());
 
         ulong firstNum = 0;
         ulong secondNum = 1;
