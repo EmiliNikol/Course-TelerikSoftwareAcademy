@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C3064299-66C9-49FD-B19B-38CF1774CFAF}</ProjectGuid>
+    <ProjectGuid>{4BC95C82-1AC4-48E3-8028-23511BBE684C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_09.IntDoubleString</RootNamespace>
-    <AssemblyName>09.IntDoubleString</AssemblyName>
+    <RootNamespace>_13.DecimalToHex</RootNamespace>
+    <AssemblyName>13.DecimalToHex</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IntDoubleString.cs" />
+    <Compile Include="DecimalToHex.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

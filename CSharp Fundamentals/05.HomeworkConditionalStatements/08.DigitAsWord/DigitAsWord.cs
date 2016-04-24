@@ -31,7 +31,7 @@ class DigitAsWord
                 Console.WriteLine("five");
                 break;
             case "6":
-                Console.WriteLine("sex");
+                Console.WriteLine("six");
                 break;
             case "7":
                 Console.WriteLine("seven");
