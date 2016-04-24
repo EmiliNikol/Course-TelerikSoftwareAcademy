@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>LinkedIn</title>
+		<link rel="shortcut icon" href="linkedin-logo.gif" type="image/gif">
+		<link href="Style.css" rel="stylesheet" />
+	</head>
+	<body>
+		<header>
+			<a href="https://www.linkedin.com">
+				<img src="logoLinkedIn.jpg" width="350" alt="LinkedIn Logo" />
+			</a>
+			<nav>
+				<ul>
+					<li class="ul_li">
+						<a href="#">Home</a>
+					</li>
+					<li class="ul_li">
+						<a href="#">What is LinkedIn?</a>
+					</li>
+					<li class="ul_li">
+						<a href="#">Join Today</a>
+					</li>
+					<li>
+						<fieldset class="fieldset_SignIn">
+							<legend>Sign In</legend>
+							<form method="post">
+								<ul class="circle">
+									<li>
+										<label for="eml">E-mail:</label>
+										<input type="email" id="eml" name="email" 
+												pattern="{3,}@{3,}.{2,}" required="required" />
+									</li>
+									<li>
+										<label for="pswd">Password:</label>
+										<input type="password" id="pswd" name="password" 
+												pattern="{6,}" required="required" />
+									</li>
+									<li>
+										<input class="sign_go_button" type="submit" name="SignBtn" value="Sign In" />
+									</li>
+								</ul>
+							</form>
+						</fieldset>
+					</li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<section>
+				<h2>Over 175 million professionals 
+					<em>use LinkedIn</em> to exchange information, ideas and opportunities!
+				</h2>
+				<ul class="ul_info">
+					<li>Stay informed about your contacts and industry</li>
+					<li>Find the people & knowladge you need to achieve your goals</li>
+					<li>Control yourr professional identity online</li>
+				</ul>
+			</section>
+			<section class="section_right">
+				<h4>Search for someone by name:</h4>
+				<form method="post">
+					<ul>
+						<li>
+							<label for="fname">First Name:</label>
+							<input type="text" id="fname" name="SearchFirstName" placeholder="First Name" required="required" />
+						</li>
+						<li>
+							<label for="lname">Last Name:</label>
+							<input type="text" id="lname" name="SearchLastName" placeholder="Last Name" required="required" />
+						</li>
+						<li class="no_bullets">
+							<input class="sign_go_button" type="submit" name="Go" value="Go" />
+						</li>
+					</ul>
+				</form>
+			</section>
+			<section class="section_left">
+				<h3>Join LinkedIn Today</h3>
+				<fieldset class="fieldset_SignUp">
+					<legend>Sign Up</legend>
+					<form method="post">
+						<ul>
+							<li>
+								<label for="fn">First Name:</label>
+								<input type="text" id="fn" name="FirstName" required="required" />
+							</li>
+							<li>
+								<label for="ln">Last Name:</label>
+								<input type="text" id="ln" name="LastName" required="required" />
+							</li>
+							<li>
+								<label for="el">E-mail:</label>
+								<input type="email" id="el" name="email" pattern="{3,}@{3,}.{2,}" 
+									required="required" />
+							</li>
+							<li>
+								<label for="pass">Password:</label>
+								<input type="password" id="pass" name="password" placeholder="6 or more characters"
+									pattern="{6,}" required="required" />
+							</li>
+						</ul>
+						<input class="join_button" type="submit" name="JoinBtn" value="Join Now" /> 
+						<aside class="aside_style">	
+							<label>Already on LinkedIn?</label>
+							<a href="#">Sign in.</a>
+						</aside>
+					</form>
+				</fieldset>
+			</section>
+		</main>
+	</body>
+</html>

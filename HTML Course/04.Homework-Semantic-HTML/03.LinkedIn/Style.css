@@ -1,0 +1,61 @@
+body {
+    background-color: lightblue;
+}
+
+nav {
+	float: right;
+	width: 70%;
+}
+
+.ul_li{
+	float: right;
+	width: 19%;
+}
+
+.fieldset_SignIn {
+	border: 1px inset lightblue;
+	padding: 5px;
+	width: 35%;
+}
+
+.fieldset_SignUp {
+	border: 3px inset skyblue;
+	padding: 5px;
+	width: 18%;
+	background-color: skyblue;
+}
+
+.sign_go_button{
+	background-color: skyblue;
+}
+
+.join_button {
+	background-color: lightblue;
+}
+
+h2 {
+	border-top: 4px double purple;
+	padding-left: 10%;
+	padding-top: 10px;
+}
+.ul_info {
+	padding-left: 12%;
+}
+
+.aside_style {
+	text-align: center;
+	padding: 10px;
+}	
+
+.section_right {
+	float: right;
+	width: 30%;
+}
+
+.section_left {
+	padding-left: 5%;
+}
+
+.no_bullets {
+	list-style-type: none;
+}

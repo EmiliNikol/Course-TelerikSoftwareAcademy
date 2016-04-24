@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Registration Form</title>
+		<style>
+			table
+			{
+				border-spacing: 0px;
+				border: 1px groove;
+			}
+			td
+			{
+				padding: 5px;
+				border: 1px groove;
+			}
+			.right_align_bold
+			{
+				text-align: right;
+				font-family: Arial;
+				font-weight: bold;
+			}
+			select, textarea
+			{
+				border: 2px inset;
+			}
+			input
+			{
+				border: 2px ridge;
+			}
+		</style>
+	</head>
+	<body>
+		<form method="get">
+			<table>
+				<colgroup>
+					<col style="width:30px" />
+					<col style="width:60px" />
+				</colgroup>
+				<tbody>
+					<tr>
+						<td class="right_align_bold">
+							<label for="ln">Last Name</label>
+						</td>
+						<td>
+							<input type="text" id="ln" name="LastName" size="36" required="required"  autofocus="autofocus" />
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="fn">First Name</label>
+						</td>
+						<td>
+							<input type="text" id="fn" name="LastName" size="36" required="required" />
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="adrs">Address</label>
+						</td>
+						<td class="col_wight">
+							<textarea name="Address" id="adrs" cols="36" rows="4" style="resize:none" placeholder="Enter your address..."></textarea>
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="cy">City</label>
+						</td>
+						<td style="padding: 0px; border: 0px">
+							<table style="border: 0px">
+								<tr>
+									<td>
+										<input type="text" id="cy" name="City" size="23" required="required" />
+									</td>
+									<td class="right_align_bold">
+										<label for="st">State</label>
+									</td>
+									<td>
+										<input type="text" id="st" name="State" size="1" />
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="pc">Zip/Postal Code</label>
+						</td>
+						<td>
+							<input type="text" id="pc" name="PostalCode" size="4" required="required" />
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="ctry">Country</label>
+						</td>
+						<td>
+							<select id="ctry" name="Countries">
+								<option disabled selected="selected">--select your country--</option>
+								<option value="bg">Bulgaria</option>
+								<option value="it">Italy</option>
+								<option value="sp">Spain</option>
+								<option value="uk">United Kingdom</option>
+								<option value="us">United States</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="ph">Phone (country code, area code, number)</label>
+						</td>
+						<td>(+ 
+							
+							<input type="tel" id="ph" name="CountryCode" placeholder="county code" size="6" required="required" />
+								)
+								
+							<input type="tel" name="AreaCode" placeholder="area code" size="4" required="required" />
+								- 
+								
+							<input type="tel" name="Number" placeholder="number" size="9" required="required" />
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="eml">E-mail</label>
+						</td>
+						<td>
+							<input type="email" id="eml" name="email" size="36" pattern="{3,}@{3,}.{2,}" required="required" />
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="bd">Birth date</label>
+						</td>
+						<td>Month
+						
+							<input type="text" id="bd" name="Month" maxlength="2" size="1" placeholder="01" required="required" />
+								Day
+								
+							<input type="text" name="Day" maxlength="2" size="1" placeholder="01" required="required" />
+								Year(4 digit)
+								
+							<input type="text" name="Year" maxlength="4" size="1" placeholder="1950" required="required" />
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="gndr">Gender</label>
+						</td>
+						<td>
+							<select id="gndr" name="Gender">
+								<option disabled selected="selected">--select your gender--</option>
+								<option value="m">Male</option>
+								<option value="f">Female</option>
+								<option value="other">Other</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="std">Starting date</label>
+						</td>
+						<td>
+							<input type="radio" id="std" name="StartingDate" value="Spring2016" />
+								Spring 2016
+								
+							<input type="radio" name="StartingDate" value="Summer2016" />
+								Summer 2016
+						</td>
+					</tr>
+					<tr>
+						<td class="right_align_bold">
+							<label for="cq">Comments/Questions</label>
+						</td>
+						<td>
+							<textarea name="Address" id="cq" rows="6" cols="36" style="resize:none" placeholder="Please send me more information about the lodging..."></textarea>
+						</td>
+					</tr>
+				</tbody>
+				<tfoot>
+					<tr>
+						<td colspan="2" style="background-color: lightblue; text-align: center">
+							<input type="submit" style="border: 2px outset" name="SubmitBtn" value="Submit" />
+							<input type="reset" style="border: 2px outset" name="ResetBtn" value="Clear This Form" />
+						</td>
+					</tr>
+				</tfoot>
+			</table>
+		</form>
+	</body>
+</html>
