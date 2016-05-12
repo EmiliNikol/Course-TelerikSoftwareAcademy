@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

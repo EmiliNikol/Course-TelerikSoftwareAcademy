@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.pdb

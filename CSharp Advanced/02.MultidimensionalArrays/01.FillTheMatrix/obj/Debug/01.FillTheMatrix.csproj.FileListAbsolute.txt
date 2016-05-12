@@ -1,0 +1,7 @@
+D:\programs\Telerik Academy\CSharp Fundamentals\02.MultidimensionalArrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb

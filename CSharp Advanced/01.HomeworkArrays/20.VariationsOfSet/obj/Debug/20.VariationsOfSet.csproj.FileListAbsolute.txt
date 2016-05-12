@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.pdb

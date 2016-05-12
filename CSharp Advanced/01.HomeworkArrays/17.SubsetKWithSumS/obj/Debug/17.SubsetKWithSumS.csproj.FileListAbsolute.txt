@@ -1,0 +1,5 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\17.SubsetKWithSumS\bin\Debug\17.SubsetKWithSumS.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\17.SubsetKWithSumS\bin\Debug\17.SubsetKWithSumS.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\17.SubsetKWithSumS\bin\Debug\17.SubsetKWithSumS.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\17.SubsetKWithSumS\obj\Debug\17.SubsetKWithSumS.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\17.SubsetKWithSumS\obj\Debug\17.SubsetKWithSumS.pdb

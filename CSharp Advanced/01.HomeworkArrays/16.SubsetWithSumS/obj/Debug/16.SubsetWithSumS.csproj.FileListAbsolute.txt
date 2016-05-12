@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.pdb

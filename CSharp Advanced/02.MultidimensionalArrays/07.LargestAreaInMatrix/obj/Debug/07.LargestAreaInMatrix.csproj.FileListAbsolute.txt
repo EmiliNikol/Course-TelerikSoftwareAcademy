@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.pdb
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.exe
+D:\programs\Telerik Academy\CSharp Advanced\02.MultidimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.pdb

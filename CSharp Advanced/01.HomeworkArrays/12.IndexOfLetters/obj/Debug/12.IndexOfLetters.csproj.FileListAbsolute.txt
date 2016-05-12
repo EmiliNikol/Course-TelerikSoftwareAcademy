@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

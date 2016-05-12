@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.pdb

@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe.config
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.pdb
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.exe
+D:\programs\Telerik Academy\CSharp Advanced\01.HomeworkArrays\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.pdb
