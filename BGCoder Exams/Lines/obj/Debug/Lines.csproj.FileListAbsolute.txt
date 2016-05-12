@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\BGCoder Exams\Lines\bin\Debug\Lines.exe.config
+D:\programs\Telerik Academy\BGCoder Exams\Lines\bin\Debug\Lines.exe
+D:\programs\Telerik Academy\BGCoder Exams\Lines\bin\Debug\Lines.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\Lines\obj\Debug\Lines.exe
+D:\programs\Telerik Academy\BGCoder Exams\Lines\obj\Debug\Lines.pdb

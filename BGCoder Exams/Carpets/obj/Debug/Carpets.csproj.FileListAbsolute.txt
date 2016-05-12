@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\BGCoder Exams\Carpets\bin\Debug\Carpets.exe.config
+D:\programs\Telerik Academy\BGCoder Exams\Carpets\bin\Debug\Carpets.exe
+D:\programs\Telerik Academy\BGCoder Exams\Carpets\bin\Debug\Carpets.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\Carpets\obj\Debug\Carpets.exe
+D:\programs\Telerik Academy\BGCoder Exams\Carpets\obj\Debug\Carpets.pdb

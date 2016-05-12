@@ -3,3 +3,8 @@ D:\programs\Telerik Academy\Test\ShipDamage\bin\Debug\ShipDamage.pdb
 D:\programs\Telerik Academy\Test\ShipDamage\obj\Debug\ShipDamage.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\ShipDamage\obj\Debug\ShipDamage.exe
 D:\programs\Telerik Academy\Test\ShipDamage\obj\Debug\ShipDamage.pdb
+D:\programs\Telerik Academy\BGCoder Exams\ShipDamage\obj\Debug\ShipDamage.exe
+D:\programs\Telerik Academy\BGCoder Exams\ShipDamage\obj\Debug\ShipDamage.pdb
+D:\programs\Telerik Academy\BGCoder Exams\ShipDamage\bin\Debug\ShipDamage.exe
+D:\programs\Telerik Academy\BGCoder Exams\ShipDamage\bin\Debug\ShipDamage.pdb
+D:\programs\Telerik Academy\BGCoder Exams\ShipDamage\obj\Debug\ShipDamage.csprojResolveAssemblyReference.cache

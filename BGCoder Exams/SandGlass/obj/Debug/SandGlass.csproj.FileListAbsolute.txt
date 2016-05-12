@@ -4,3 +4,9 @@ D:\programs\Telerik Academy\Test\SandGlass\bin\Debug\SandGlass.pdb
 D:\programs\Telerik Academy\Test\SandGlass\obj\Debug\SandGlass.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\SandGlass\obj\Debug\SandGlass.exe
 D:\programs\Telerik Academy\Test\SandGlass\obj\Debug\SandGlass.pdb
+D:\programs\Telerik Academy\BGCoder Exams\SandGlass\bin\Debug\SandGlass.exe.config
+D:\programs\Telerik Academy\BGCoder Exams\SandGlass\obj\Debug\SandGlass.exe
+D:\programs\Telerik Academy\BGCoder Exams\SandGlass\obj\Debug\SandGlass.pdb
+D:\programs\Telerik Academy\BGCoder Exams\SandGlass\bin\Debug\SandGlass.exe
+D:\programs\Telerik Academy\BGCoder Exams\SandGlass\bin\Debug\SandGlass.pdb
+D:\programs\Telerik Academy\BGCoder Exams\SandGlass\obj\Debug\SandGlass.csprojResolveAssemblyReference.cache

@@ -2,3 +2,7 @@ D:\programs\Telerik Academy\Test\Trapezoid\bin\Debug\Trapezoid.exe
 D:\programs\Telerik Academy\Test\Trapezoid\bin\Debug\Trapezoid.pdb
 D:\programs\Telerik Academy\Test\Trapezoid\obj\Debug\Trapezoid.exe
 D:\programs\Telerik Academy\Test\Trapezoid\obj\Debug\Trapezoid.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Trapezoid\bin\Debug\Trapezoid.exe
+D:\programs\Telerik Academy\BGCoder Exams\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Trapezoid\obj\Debug\Trapezoid.exe
+D:\programs\Telerik Academy\BGCoder Exams\Trapezoid\obj\Debug\Trapezoid.pdb

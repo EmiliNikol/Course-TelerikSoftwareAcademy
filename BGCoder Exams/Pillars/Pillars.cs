@@ -15,7 +15,6 @@ class Pillars
             numbers[i] = byte.Parse(Console.ReadLine());
         }
 
-        // First decision
         string[] bitLines = new string[8];
 
         for (int i = 0; i <= 7; i++)

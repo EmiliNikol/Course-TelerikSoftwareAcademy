@@ -3,3 +3,8 @@ D:\programs\Telerik Academy\Test\MathExpression\bin\Debug\MathExpression.pdb
 D:\programs\Telerik Academy\Test\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\MathExpression\obj\Debug\MathExpression.exe
 D:\programs\Telerik Academy\Test\MathExpression\obj\Debug\MathExpression.pdb
+D:\programs\Telerik Academy\BGCoder Exams\MathExpression\obj\Debug\MathExpression.exe
+D:\programs\Telerik Academy\BGCoder Exams\MathExpression\obj\Debug\MathExpression.pdb
+D:\programs\Telerik Academy\BGCoder Exams\MathExpression\bin\Debug\MathExpression.exe
+D:\programs\Telerik Academy\BGCoder Exams\MathExpression\bin\Debug\MathExpression.pdb
+D:\programs\Telerik Academy\BGCoder Exams\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache

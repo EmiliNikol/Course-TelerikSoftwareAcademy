@@ -3,3 +3,8 @@ D:\programs\Telerik Academy\Test\OddNumber\bin\Debug\OddNumber.pdb
 D:\programs\Telerik Academy\Test\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\OddNumber\obj\Debug\OddNumber.exe
 D:\programs\Telerik Academy\Test\OddNumber\obj\Debug\OddNumber.pdb
+D:\programs\Telerik Academy\BGCoder Exams\OddNumber\bin\Debug\OddNumber.exe
+D:\programs\Telerik Academy\BGCoder Exams\OddNumber\bin\Debug\OddNumber.pdb
+D:\programs\Telerik Academy\BGCoder Exams\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\OddNumber\obj\Debug\OddNumber.exe
+D:\programs\Telerik Academy\BGCoder Exams\OddNumber\obj\Debug\OddNumber.pdb

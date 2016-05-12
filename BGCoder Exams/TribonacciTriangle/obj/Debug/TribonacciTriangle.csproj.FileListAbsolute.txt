@@ -1,0 +1,6 @@
+D:\programs\Telerik Academy\BGCoder Exams\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+D:\programs\Telerik Academy\BGCoder Exams\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+D:\programs\Telerik Academy\BGCoder Exams\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+D:\programs\Telerik Academy\BGCoder Exams\TribonacciTriangle\obj\Debug\TribonacciTriangle.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+D:\programs\Telerik Academy\BGCoder Exams\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

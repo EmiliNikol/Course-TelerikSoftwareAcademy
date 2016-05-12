@@ -7,3 +7,6 @@ D:\programs\Telerik Academy\Test\Pillars\obj\Debug\Pillars.pdb
 D:\programs\Telerik Academy\BGCoder Exams\Pillars\bin\Debug\Pillars.exe.config
 D:\programs\Telerik Academy\BGCoder Exams\Pillars\obj\Debug\Pillars.exe
 D:\programs\Telerik Academy\BGCoder Exams\Pillars\obj\Debug\Pillars.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Pillars\bin\Debug\Pillars.exe
+D:\programs\Telerik Academy\BGCoder Exams\Pillars\bin\Debug\Pillars.pdb
+D:\programs\Telerik Academy\BGCoder Exams\Pillars\obj\Debug\Pillars.csprojResolveAssemblyReference.cache

@@ -4,3 +4,9 @@ D:\programs\Telerik Academy\Test\FighterAttack\bin\Debug\FighterAttack.pdb
 D:\programs\Telerik Academy\Test\FighterAttack\obj\Debug\FighterAttack.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\FighterAttack\obj\Debug\FighterAttack.exe
 D:\programs\Telerik Academy\Test\FighterAttack\obj\Debug\FighterAttack.pdb
+D:\programs\Telerik Academy\BGCoder Exams\FighterAttack\bin\Debug\FighterAttack.exe.config
+D:\programs\Telerik Academy\BGCoder Exams\FighterAttack\bin\Debug\FighterAttack.exe
+D:\programs\Telerik Academy\BGCoder Exams\FighterAttack\bin\Debug\FighterAttack.pdb
+D:\programs\Telerik Academy\BGCoder Exams\FighterAttack\obj\Debug\FighterAttack.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\FighterAttack\obj\Debug\FighterAttack.exe
+D:\programs\Telerik Academy\BGCoder Exams\FighterAttack\obj\Debug\FighterAttack.pdb

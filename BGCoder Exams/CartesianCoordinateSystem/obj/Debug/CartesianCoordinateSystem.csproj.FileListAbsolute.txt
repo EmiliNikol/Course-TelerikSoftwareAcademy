@@ -3,3 +3,8 @@ D:\programs\Telerik Academy\Test\CartesianCoordinateSystem\bin\Debug\CartesianCo
 D:\programs\Telerik Academy\Test\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
 D:\programs\Telerik Academy\Test\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb
 D:\programs\Telerik Academy\Test\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+D:\programs\Telerik Academy\BGCoder Exams\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+D:\programs\Telerik Academy\BGCoder Exams\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+D:\programs\Telerik Academy\BGCoder Exams\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

@@ -3,3 +3,8 @@ D:\programs\Telerik Academy\Test\FirTree\bin\Debug\FirTree.pdb
 D:\programs\Telerik Academy\Test\FirTree\obj\Debug\FirTree.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\FirTree\obj\Debug\FirTree.exe
 D:\programs\Telerik Academy\Test\FirTree\obj\Debug\FirTree.pdb
+D:\programs\Telerik Academy\BGCoder Exams\FirTree\bin\Debug\FirTree.exe
+D:\programs\Telerik Academy\BGCoder Exams\FirTree\bin\Debug\FirTree.pdb
+D:\programs\Telerik Academy\BGCoder Exams\FirTree\obj\Debug\FirTree.csprojResolveAssemblyReference.cache
+D:\programs\Telerik Academy\BGCoder Exams\FirTree\obj\Debug\FirTree.exe
+D:\programs\Telerik Academy\BGCoder Exams\FirTree\obj\Debug\FirTree.pdb

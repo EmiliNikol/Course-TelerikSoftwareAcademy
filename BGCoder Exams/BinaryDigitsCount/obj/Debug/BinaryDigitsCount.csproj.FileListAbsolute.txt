@@ -3,3 +3,8 @@ D:\programs\Telerik Academy\Test\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.p
 D:\programs\Telerik Academy\Test\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.csprojResolveAssemblyReference.cache
 D:\programs\Telerik Academy\Test\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
 D:\programs\Telerik Academy\Test\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb
+D:\programs\Telerik Academy\BGCoder Exams\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+D:\programs\Telerik Academy\BGCoder Exams\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb
+D:\programs\Telerik Academy\BGCoder Exams\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+D:\programs\Telerik Academy\BGCoder Exams\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+D:\programs\Telerik Academy\BGCoder Exams\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.csprojResolveAssemblyReference.cache
