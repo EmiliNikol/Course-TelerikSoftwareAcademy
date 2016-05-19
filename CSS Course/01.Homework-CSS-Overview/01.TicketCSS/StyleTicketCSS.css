@@ -1,0 +1,47 @@
+body{
+	background-color: #485868;
+	font-family: Comic Sans MS
+}
+
+dt{
+	display: inline-block;
+	width: 140px;
+	vertical-align: top;
+	font-style: italic;
+	color: #FFF
+}
+
+dd{
+	display: inline-block;
+	margin-bottom: 5px;
+	line-height: 25px
+}
+
+h1{
+	font-weight: 100;
+	font-size: 1.7rem
+}
+
+img {
+	width: 15px
+}
+
+#red{
+	color: red
+}
+
+#orange{
+	color: darkorange
+}
+
+.bold{
+	font-weight: bold
+}
+
+.grey{
+	color: darkgrey
+}
+
+.yellow{
+	color: #FFB
+}

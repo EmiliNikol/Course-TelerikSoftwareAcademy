@@ -1,0 +1,97 @@
+html, body, section, header, nav, article, div, p, ul, li, figure, fieldset {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Corbel,sans-serif;
+    font-size: 20px;
+}
+
+#wrapper {
+    margin: auto;
+	padding: 10px;
+    width: 870px;
+	height: 615px;
+	border: 2px solid #000000;
+	border-radius: 15px;
+}
+
+header  {
+    padding: 0px 20px;
+}
+
+nav {
+    border-bottom: 3px solid #000000;
+}
+
+ul{
+    font-size: 0px;
+    list-style-type: none;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding-right: 6px;
+}
+
+li a{
+    color: #02AFF0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+li a:hover {
+    color: #016D96;
+}
+
+#content {
+    border: 2px solid #000000;
+    float: left;
+    margin: 15px 0px;
+    padding: 5px;
+    width: 590px;
+}
+
+.article-item, figure {
+    float: left;
+    width: 50%;
+}
+
+p.item-details {
+    float: left;
+    padding: 10px 0px;
+    width: 50%;
+}
+
+aside {
+    float: left;
+    margin: 15px 0px;
+    padding: 55px 8px;
+    text-align: center;
+    width: 250px;
+	font-size: 25px;
+}
+
+fieldset {
+	margin: 5px;
+	padding: 5px;
+	border-color: green;
+}
+fieldset legend{
+	text-align: center;
+}
+
+.slider-wrapper {
+    padding: 4px 0px;
+}
+
+p.slider-details {
+    padding: 15px;
+}
+
+input[type="range"] {
+    width: 200px;
+}

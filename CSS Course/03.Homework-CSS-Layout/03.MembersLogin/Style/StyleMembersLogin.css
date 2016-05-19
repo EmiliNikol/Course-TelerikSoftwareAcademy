@@ -1,0 +1,79 @@
+html, body, h1, header, section, article, span, p, input, img {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #707070;
+	border: 2px solid rgb(142, 130, 118);
+	border-radius: 10px;
+	width: 580px;
+}
+
+.background {
+	background-color: #3b3b3b;
+	border-radius: 0px 0px 9px 9px;
+}
+header {
+	padding: 16px;
+	border-bottom: 1px solid #333333;
+	border-radius: 9px 9px 0px 0px;
+	background: -moz-linear-gradient(top, rgba(59,59,59,1) 0%, rgba(63,63,63,1) 32%, rgba(63,63,63,1) 77%, rgba(42,42,42,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(59,59,59,1)), color-stop(32%,rgba(63,63,63,1)), color-stop(77%,rgba(63,63,63,1)), color-stop(100%,rgba(42,42,42,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(59,59,59,1) 0%,rgba(63,63,63,1) 32%,rgba(63,63,63,1) 77%,rgba(42,42,42,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(59,59,59,1) 0%,rgba(63,63,63,1) 32%,rgba(63,63,63,1) 77%,rgba(42,42,42,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(59,59,59,1) 0%,rgba(63,63,63,1) 32%,rgba(63,63,63,1) 77%,rgba(42,42,42,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(59,59,59,1) 0%,rgba(63,63,63,1) 32%,rgba(63,63,63,1) 77%,rgba(42,42,42,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b3b3b', endColorstr='#2a2a2a',GradientType=0 ); /* IE6-9 */
+}
+
+section {
+	padding: 10px;
+}
+
+#white {
+	color: white;
+}
+
+img {
+	float: left;
+	width: 60px;
+	height: 60px;
+	opacity: 0.8;
+}
+
+label {
+	margin: 10px;
+	font-family: Georgia;
+	font-size: 21px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+input[type="text"], input[type="email"] {
+	height: 27px;
+	width: 100px;
+	margin: 16px 10px 16px 0px;
+}
+
+input[placeholder] {
+	text-align: center;
+}
+
+input[type="submit"] {
+	background: url("../Images/red-button.png") no-repeat;
+	background-size: 56px 28px;
+	color: #ffffff;
+	width: 56px;
+	height: 28px;
+	border: none;
+	opacity: 0.8;
+}
+
+h2 {
+	margin: 12px 0px;
+	font-family: Georgia;
+	font-weight: normal;
+	font-size: 32px;
+	color: #fdd421;
+}

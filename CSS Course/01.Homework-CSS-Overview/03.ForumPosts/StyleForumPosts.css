@@ -1,0 +1,46 @@
+body{
+	background-color: #AAA
+}
+
+h2{
+	color: #FFFFCC;
+	font-size: 1.7rem
+}
+
+body > header h1{
+	text-align: center;
+	font-size: 2.5rem
+}
+
+nav ul a{
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 1.3rem
+}
+
+nav li{
+	list-style-type: none;
+	text-align: center
+}
+
+nav li:last-of-type{
+	text-decoration: underline
+}
+
+footer a{
+	text-decoration: none;
+	color: #000
+}
+
+footer p{
+	font-size: 0.8rem
+}
+
+body > footer{
+	text-align: center
+}
+
+.current{
+	background-color: #DDD
+}

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Windows Calculator</title>
+		<link href="Style/StyleWindowsCalculator.css" rel="stylesheet" />
+	</head>
+	<body>
+		<div class="backgrounds">
+			<header>
+				<h1>Calculator</h1>
+				<div class="btn">
+					<button class="minimize btn"></button>
+					<button class="maximize btn"></button>
+					<button class="close btn"></button>
+				</div>
+			</header>
+			<main id="main">
+				<header>
+					<nav>
+						<ul>
+							<li>View</li>
+							<li>Edit</li>
+							<li>Help</li>
+						</ul>
+					</nav>
+				</header>
+				<section>
+					<input type="text" value="8854455">
+				</section>
+				<section>
+					<table id="tableBinary">
+						<tr>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+						</tr>
+						<tr>
+							<td colspan="4">63</td>
+							<td colspan="3">47</td>
+							<td>&nbsp;&nbsp;32</td>
+						</tr>
+						<tr>
+							<td>0000</td>
+							<td>0000</td>
+							<td>1000</td>
+							<td>0111</td>
+							<td>0001</td>
+							<td>1011</td>
+							<td>1011</td>
+							<td>0111</td>
+						</tr>
+						<tr>
+							<td colspan="4">31</td>
+							<td colspan="3">15</td>
+							<td>&nbsp;&nbsp;&nbsp;0</td>
+						</tr>
+					</table>
+				</section>
+				<section class="flex-container" id="buttonsField">
+					<aside id="radioNumeralSystem">
+						<input type="radio" id="hex" name="numSys" />
+						<label for="hex">Hex</label><br />
+						<input type="radio" id="dec" name="numSys" checked="checked" />
+						<label for="dec">Dec</label><br />
+						<input type="radio" id="oct" name="numSys" />
+						<label for="oct">Oct</label><br />
+						<input type="radio" id="bin" name="numSys" />
+						<label for="bin">Bin</label>
+					</aside>
+					<div class="flex-item">
+						<button id="none" disabled="disabled">&nbsp;</button>
+						<button class="operator">Mod</button>
+						<button class="disabled" disabled="disabled">A</button>
+						<button class="m">MC</button>
+						<button class="m">MR</button>
+						<button class="m">MS</button>
+						<button class="m">M+</button>
+						<button class="m">M-</button>
+						<button class="operator">&#40;</button>
+						<button class="operator">&#41;</button>
+						<button class="disabled" disabled="disabled">B</button>
+						<button class="operator">&#8592;</button>
+						<button class="operator">CE</button>
+						<button class="operator">C</button>
+						<button class="operator">&#177;</button>
+						<button class="disabled" disabled="disabled">&#8730;</button>
+						<button class="operator">RoL</button>
+						<button class="operator">RoR</button>
+						<button class="disabled" disabled="disabled">C</button>
+						<button class="digit">7</button>
+						<button class="digit">8</button>
+						<button class="digit">9</button>
+						<button class="operator">&#47;</button>
+						<button class="disabled" disabled="disabled">&#37;</button>
+					</div>
+					<aside id="radioBinaryLength">
+						<input type="radio" id="qword" name="binLen" checked="checked" />
+						<label for="qword">Qword</label><br />
+						<input type="radio" id="dword" name="binLen" />
+						<label for="dword">Dword</label><br />
+						<input type="radio" id="word" name="binLen" />
+						<label for="word">Word</label><br />
+						<input type="radio" id="byte" name="binLen" />
+						<label for="byte">Byte</label>
+					</aside>
+					<div class="flex-item">
+						<button class="operator">Or</button>
+						<button class="operator">Xor</button>
+						<button class="disabled" disabled="disabled">D</button>
+						<button class="digit">4</button>
+						<button class="digit">5</button>
+						<button class="digit">6</button>
+						<button class="operator">&#42;</button>
+						<button class="disabled" disabled="disabled">1&#47;x</button>
+						<button class="operator margin">Lsh</button>
+						<button class="operator">Rsh</button>
+						<button class="disabled" disabled="disabled">E</button>
+						<button class="digit">1</button>
+						<button class="digit">2</button>
+						<button class="digit">3</button>
+						<button class="operator">&#45;</button>
+						<button class="operator" id="high">&#61;</button>
+						<button class="operator">Not</button>
+						<button class="operator">And</button>
+						<button class="disabled" disabled="disabled">F</button>
+						<button class="digit" id="wide">0</button>
+						<button class="disabled" disabled="disabled">&#46;</button>
+						<button class="operator">&#43;</button>
+					</div>
+				</section>
+			</main>
+		</div>	
+	</body>
+</html>

@@ -1,0 +1,65 @@
+body, h1, button, p, img, input, label {
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	width: 600px;
+	font-family: Arial Narrow;
+}
+
+.background {
+	background-color: #eeeeee;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 28px;
+	font-weight: normal;
+}
+
+p {
+	margin-bottom: 20px;
+	text-align: left;
+	font-size: 21px;
+}
+
+img {
+	width: 200px;
+	margin-right: 15px;
+	float: left;
+}
+
+img, article {
+	border: 2px solid #aaaaaa;
+	border-radius: 2px;
+}
+
+button
+{
+	height: 35px;
+	background: url("../Images/Button.png");
+	background-size:100px 30px;
+	border: 3px outset #cc0000;
+	color: #ffffff;
+}
+
+article button:nth-child(n) {
+	width: 100px;
+}
+
+article button:nth-child(2n) {
+	width: 85px;
+}
+
+article {
+	width: 500px;
+	height: 130px;
+	background-color: #ffffff;
+	margin-top: 60px;
+	margin-bottom: 50px;
+	padding: 24px;
+	text-align: right;
+}

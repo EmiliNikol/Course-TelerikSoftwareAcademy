@@ -1,0 +1,30 @@
+body {
+	background-color: #4461db;
+	font-family: Algerian;
+	font-size: 25px;
+}
+
+ul {
+	list-style-type: none;
+	width: 500px;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: inherit;
+}
+
+li  ul {
+	display: none;
+	color: #bbb;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+li:hover > ul {
+	display: block;
+	width: 80%;
+	background-color: rgba(0, 0, 60, 0.5); 
+}

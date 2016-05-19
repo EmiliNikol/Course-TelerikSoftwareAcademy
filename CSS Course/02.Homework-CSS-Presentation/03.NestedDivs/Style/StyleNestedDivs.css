@@ -1,0 +1,12 @@
+div {
+	border: 1px solid red;
+	background-color: black;
+	padding-right: 10px;
+	border-radius: 20px; 
+	width: 90%;
+}
+
+.hidden
+{
+	display: none;
+}
